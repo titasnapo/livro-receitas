@@ -6,4 +6,6 @@ Olá! Bem Vindo ao restaurante da Keke :woman:
 
 - File de Frango ao leite
 - Carninha na Panela
+- Torta de Frango
+- Kibe
 
